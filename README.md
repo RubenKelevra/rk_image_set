@@ -1,6 +1,6 @@
 # rk_image_set
 High Resolution Image Corpus for Compression Testing
 
-Available via ipfs:
+The license and author for each file is stored in the commit message.
 
-https://ipfs.io/ipfs/bafykbzacebf676y5eadx6xvgncvfr43e5k7yryugcj6cx4zjhwerfnoralruy
+All files are also available via ipfs: https://ipfs.io/ipfs/bafykbzacebf676y5eadx6xvgncvfr43e5k7yryugcj6cx4zjhwerfnoralruy
